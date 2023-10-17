@@ -115,3 +115,25 @@ body {
 .word h3 {
   font-size: 50px;
 }
+
+.socials i {
+  color: rgba(128, 128, 128, 0.445);
+  font-size: 30px;
+  margin-left: 5px;
+}
+.socials i:hover {
+  color: white;
+  cursor: pointer;
+}
+
+footer {
+  bottom: 0;
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+footer p {
+  color: white;
+}
