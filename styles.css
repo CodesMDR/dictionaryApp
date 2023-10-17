@@ -10,6 +10,8 @@
 body {
   background-color: rgb(42, 51, 62);
   height: 100vh;
+  display: flex;
+  justify-content: center;
 }
 
 .container {
